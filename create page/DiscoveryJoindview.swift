@@ -55,7 +55,7 @@ struct DiscoveryJoindview: View {
             
             Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/, label: {
                 Text("join")
-                jhvvhjhl
+                
             })
                 .frame(width: 85, height: 25)
                 .background(Color.white)
